@@ -1,7 +1,7 @@
 {
   "name": "cli-mid-emultiple",
   "version": "1.0.0",
-  "description": "Multiple option error handling middleware",
+  "description": "Multiple option error middleware",
   "author": "muji <noop@xpm.io>",
   "repository": {
     "type": "git",
